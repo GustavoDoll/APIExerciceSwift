@@ -9,5 +9,8 @@
 import UIKit
 
 class Model: NSObject {
-
+    var nome:String = ""
+    var imagemSTR:String = ""
+    var imagem:UIImage?=nil
+    var tipo:String?=""
 }

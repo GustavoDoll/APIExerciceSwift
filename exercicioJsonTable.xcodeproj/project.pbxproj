@@ -12,6 +12,8 @@
 		AC0D8EF7215266A200E84CD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC0D8EF5215266A200E84CD1 /* Main.storyboard */; };
 		AC0D8EF9215266AA00E84CD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC0D8EF8215266AA00E84CD1 /* Assets.xcassets */; };
 		AC0D8EFC215266AA00E84CD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC0D8EFA215266AA00E84CD1 /* LaunchScreen.storyboard */; };
+		AC0D8F042152671B00E84CD1 /* ListaTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0D8F032152671B00E84CD1 /* ListaTableTableViewController.swift */; };
+		AC0D8F062152695C00E84CD1 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0D8F052152695C00E84CD1 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		AC0D8EF8215266AA00E84CD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC0D8EFB215266AA00E84CD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC0D8EFD215266AA00E84CD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC0D8F032152671B00E84CD1 /* ListaTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaTableTableViewController.swift; sourceTree = "<group>"; };
+		AC0D8F052152695C00E84CD1 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				AC0D8EF1215266A200E84CD1 /* AppDelegate.swift */,
 				AC0D8EF3215266A200E84CD1 /* ViewController.swift */,
 				AC0D8EF5215266A200E84CD1 /* Main.storyboard */,
+				AC0D8F052152695C00E84CD1 /* Model.swift */,
+				AC0D8F032152671B00E84CD1 /* ListaTableTableViewController.swift */,
 				AC0D8EF8215266AA00E84CD1 /* Assets.xcassets */,
 				AC0D8EFA215266AA00E84CD1 /* LaunchScreen.storyboard */,
 				AC0D8EFD215266AA00E84CD1 /* Info.plist */,
@@ -137,6 +143,8 @@
 			files = (
 				AC0D8EF4215266A200E84CD1 /* ViewController.swift in Sources */,
 				AC0D8EF2215266A200E84CD1 /* AppDelegate.swift in Sources */,
+				AC0D8F042152671B00E84CD1 /* ListaTableTableViewController.swift in Sources */,
+				AC0D8F062152695C00E84CD1 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
